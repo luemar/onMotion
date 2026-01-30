@@ -19,4 +19,10 @@ Thumbs.db
 *.bak
 manual_foto.jpg
 my_foto.jpg
+
+.xsession-errors*
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
 NoIRx.jpg
